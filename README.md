@@ -11,7 +11,7 @@
 | MATCH-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/MATCH-001/API_Spec.md) | v1.0 | — |
 | SYSTEM-001 | [SRS](business-spec/SYSTEM-001/) | — | — | — |
 | USER-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/USER-001/API_Spec.md) | v3.6 | [CHANGELOG](api/USER-001/CHANGELOG.md) |
-| USER-002 | [SRS](business-spec/USER-002/) | [API_Spec](api/USER-002/API_Spec.md) | v1.7 | [CHANGELOG](api/USER-002/CHANGELOG.md) |
+| USER-002 | [SRS](business-spec/USER-002/) | [API_Spec](api/USER-002/API_Spec.md) | v1.8 | [CHANGELOG](api/USER-002/CHANGELOG.md) |
 | VENUE-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/VENUE-001/API_Spec.md) | v1.0 | — |
 
 - Quy ước API chung: [api/api-convention.md](api/api-convention.md)
