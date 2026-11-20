@@ -14,10 +14,10 @@
 | NOTIFICATION-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/NOTIFICATION-001/API_Spec.md) | v1.1 | [CHANGELOG](api/NOTIFICATION-001/CHANGELOG.md) |
 | REPUTATION-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/REPUTATION-001/API_Spec.md) | v1.3 | [CHANGELOG](api/REPUTATION-001/CHANGELOG.md) |
 | SYSTEM-001 | [SRS](business-spec/SYSTEM-001/) | — | — | — |
-| USER-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/USER-001/API_Spec.md) | v4.3 | [CHANGELOG](api/USER-001/CHANGELOG.md) |
+| USER-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/USER-001/API_Spec.md) | v4.4 | [CHANGELOG](api/USER-001/CHANGELOG.md) |
 | USER-002 | [SRS](business-spec/USER-002/) | [API_Spec](api/USER-002/API_Spec.md) | v3.1 | [CHANGELOG](api/USER-002/CHANGELOG.md) |
 | USER-003 | [SRS](business-spec/USER-003/) | [API_Spec](api/USER-003/API_Spec.md) | v1.1 | [CHANGELOG](api/USER-003/CHANGELOG.md) |
-| VENUE-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/VENUE-001/API_Spec.md) | v4.2 | [CHANGELOG](api/VENUE-001/CHANGELOG.md) |
+| VENUE-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/VENUE-001/API_Spec.md) | v4.3 | [CHANGELOG](api/VENUE-001/CHANGELOG.md) |
 
 - Quy ước API chung: [api/api-convention.md](api/api-convention.md)
 - Quyết định kiến trúc (ADR): [decisions/](decisions/)
