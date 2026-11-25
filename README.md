@@ -8,8 +8,8 @@
 
 | Mã | SRS | API_Spec | Phiên bản API_Spec | CHANGELOG |
 |---|---|---|---|---|
-| MATCH-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/MATCH-001/API_Spec.md) | v3.1 | [CHANGELOG](api/MATCH-001/CHANGELOG.md) |
-| MATCH-002 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/MATCH-002/API_Spec.md) | v3.0 | [CHANGELOG](api/MATCH-002/CHANGELOG.md) |
+| MATCH-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/MATCH-001/API_Spec.md) | v3.2 | [CHANGELOG](api/MATCH-001/CHANGELOG.md) |
+| MATCH-002 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/MATCH-002/API_Spec.md) | v3.1 | [CHANGELOG](api/MATCH-002/CHANGELOG.md) |
 | MERCENARY-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/MERCENARY-001/API_Spec.md) | v3.0 | [CHANGELOG](api/MERCENARY-001/CHANGELOG.md) |
 | NOTIFICATION-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/NOTIFICATION-001/API_Spec.md) | v2.0 | [CHANGELOG](api/NOTIFICATION-001/CHANGELOG.md) |
 | REPUTATION-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/REPUTATION-001/API_Spec.md) | v2.0 | [CHANGELOG](api/REPUTATION-001/CHANGELOG.md) |
