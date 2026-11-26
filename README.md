@@ -12,7 +12,7 @@
 | MATCH-002 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/MATCH-002/API_Spec.md) | v3.1 | [CHANGELOG](api/MATCH-002/CHANGELOG.md) |
 | MERCENARY-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/MERCENARY-001/API_Spec.md) | v3.0 | [CHANGELOG](api/MERCENARY-001/CHANGELOG.md) |
 | NOTIFICATION-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/NOTIFICATION-001/API_Spec.md) | v2.0 | [CHANGELOG](api/NOTIFICATION-001/CHANGELOG.md) |
-| REPUTATION-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/REPUTATION-001/API_Spec.md) | v2.0 | [CHANGELOG](api/REPUTATION-001/CHANGELOG.md) |
+| REPUTATION-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/REPUTATION-001/API_Spec.md) | v2.1 | [CHANGELOG](api/REPUTATION-001/CHANGELOG.md) |
 | SYSTEM-001 | [SRS](business-spec/SYSTEM-001/) | — | — | — |
 | SYSTEM-002 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/SYSTEM-002/API_Spec.md) | v1.2 | [CHANGELOG](api/SYSTEM-002/CHANGELOG.md) |
 | USER-001 | [SRS trong SYSTEM-001](business-spec/SYSTEM-001/) | [API_Spec](api/USER-001/API_Spec.md) | v5.3 | [CHANGELOG](api/USER-001/CHANGELOG.md) |
